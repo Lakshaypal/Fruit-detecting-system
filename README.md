@@ -1,4 +1,4 @@
-# 🍎 UAS-DTU Fruit Counting Task
+# 🍎 Fruit Counting Task
 This project uses **YOLO (You Only Look Once)** for **fruit detection and counting** from **front and back images** of plants.
 
 ## 🚀 How to Run the Project?
